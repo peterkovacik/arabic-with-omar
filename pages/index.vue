@@ -3,10 +3,6 @@
         <h1 class="text-center text-white py-4 ">Arabic with Omar</h1>
     </div>
     
-    <div >
-        <!-- <img src="/images/classical-arabic-logo.jpeg" alt="" width="350px" height="350px" class=""> -->
-        <h1 class="text-center align-items-center">Arabic with Omar</h1>
-    </div>
 </template>
 
 <script>

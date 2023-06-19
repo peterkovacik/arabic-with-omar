@@ -3,7 +3,7 @@
         <div class="classes">
             
             
-            <h1 class="text-center mt-5">View current <NuxtLink class="text-success text-decoration-none" to="https://arabicwithomar.teachable.com/">online classes</NuxtLink>.</h1>
+            <h1 class="text-center mt-5">View current <NuxtLink class="text-success text-decoration-none" target="_blank" to="https://arabicwithomar.teachable.com/">online classes</NuxtLink>.</h1>
  
             <h3 class="text-center pt-5 pb-3">Previous Classes</h3>
 

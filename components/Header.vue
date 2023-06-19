@@ -18,11 +18,11 @@
                             <NuxtLink class="nav-link p-2 me-2" to="/contact">Contact</NuxtLink> 
                             <div class="d-sm-block d-md-none">
                                 <!--<button class="btn btn-outline-success px-2" type="submit">Student Portal</button>-->
-                                <NuxtLink class="btn btn-outline-success px-3" to="https://arabicinstructor.teachable.com/" target="_blank">Student Portal</NuxtLink>
+                                <NuxtLink class="btn btn-outline-success px-3" to="https://arabicwithomar.teachable.com/" target="_blank">Student Portal</NuxtLink>
                             </div>
                         </div>
                     </div>
-                    <NuxtLink class="btn btn-outline-success px-3 d-none d-md-block" to="https://arabicinstructor.teachable.com/" target="_blank">Student Portal</NuxtLink>
+                    <NuxtLink class="btn btn-outline-success px-3 d-none d-md-block" to="https://arabicwithomar.teachable.com/" target="_blank">Student Portal</NuxtLink>
                 </div>
             </nav>
         </header>

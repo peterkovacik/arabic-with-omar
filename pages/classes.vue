@@ -3,9 +3,9 @@
         <div class="classes">
             
             
-            <h1 class="text-center mt-5">View current <NuxtLink class="text-success text-decoration-none" target="_blank" to="https://arabicwithomar.teachable.com/">online classes</NuxtLink>.</h1>
+            <h1 class="text-center title display-3 mt-5">View current <NuxtLink class="text-success title text-decoration-none" target="_blank" to="https://arabicwithomar.teachable.com/">online classes</NuxtLink>.</h1>
  
-            <h3 class="text-center pt-5 pb-3">Previous Classes</h3>
+            <h3 class="text-center title pt-5 pb-3">Previous Classes</h3>
 
             <figure class="mt-2 mb-5">
                 <img src="/images/why-islam-is-true.png" alt="Classical Arabic logo"  class="center-image why-islam-image"> 

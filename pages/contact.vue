@@ -1,7 +1,15 @@
 <template>
     <div>
-        <h1 class="text-center pt-4 pb-4">Let's Connect</h1>
+        <h1 class="text-center title display-3 pt-5 pb-4">Let's Connect</h1>
 
+        <div class="leaves mt-2 mb-5"></div>
+
+        <!--        <figure class="">
+            <img src="/images/leaves-three-sisters.jpeg" alt="image of tree"  class="center-image leaves-image"> 
+        </figure>
+        -->
+
+        
         <form action="https://formsubmit.co/871b77a3771c1f5953f344193a030234" method="POST" class="contact-form">
             <!-- Name input -->
             <div class="form-outline mb-4">
@@ -52,12 +60,30 @@
 <style scoped>
     .contact-form {
         width: 350px;
+        height: 467px;
         display: block;
         margin: 0 auto;
     }
 
+    .leaves {
+        background-image: url('/images/leaves-three-sisters.jpeg');
+        height: 300px;
+        width: 350px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        display: block;
+        margin: 0 auto;
+        border-radius: 25px; /* rounded corners */
+    }
+
+   
     @media only screen and (min-width: 720px) {
         .contact-form {
+            width: 450px;
+            height: 600px;
+        }
+        .leaves {
             width: 450px;
         }
     }

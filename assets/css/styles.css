@@ -18,7 +18,7 @@
     font-family: 'GlacialIndifference';
     font-style: normal;
     font-weight: normal;
-    src: local('GlacialIndifference'), url('@/assets/fonts/GlacialIndifference.otf') format('otf');
+    src: local('GlacialIndifference'), url('@/assets/fonts/GlacialIndifference-Regular.otf') format('otf');
 }
 
 html, body, div, span, applet, object, iframe,

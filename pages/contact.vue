@@ -10,7 +10,7 @@
         -->
 
         
-        <form action="https://formsubmit.co/871b77a3771c1f5953f344193a030234" method="POST" class="contact-form mb-3">
+        <form action="https://formsubmit.co/871b77a3771c1f5953f344193a030234" method="POST" class="contact-form form-margin-show-button">
             <!-- Name input -->
             <div class="form-outline mb-4">
                 <label class="form-label" for="name">Name</label>
@@ -60,7 +60,6 @@
 <style scoped>
     .contact-form {
         width: 350px;
-        height: 467px;
         display: block;
         margin: 0 auto;
     }
@@ -76,15 +75,18 @@
         margin: 0 auto;
         border-radius: 25px; /* rounded corners */
     }
-
    
+    @media only screen and (min-width: 550px) {
+        
+    }
+
     @media only screen and (min-width: 720px) {
         .contact-form {
             width: 450px;
-            height: 600px;
         }
         .leaves {
             width: 450px;
         }
+       
     }
 </style>

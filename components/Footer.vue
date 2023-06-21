@@ -1,5 +1,5 @@
 <template>
-    <footer class="bg-light py-4">
+    <footer class="bg-light mt-4 py-4">
         <div class="text-center">
             <span><p class="text-center copyright mx-1">&copy; 2023 | Peter Omar Kovacik</p></span>
             <NuxtLink class="nav-link instagram-link mx-1" to="https://www.instagram.com/omarkovacik/" target="_blank">

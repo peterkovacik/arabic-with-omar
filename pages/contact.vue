@@ -76,9 +76,7 @@
         border-radius: 25px; /* rounded corners */
     }
    
-    @media only screen and (min-width: 550px) {
-        
-    }
+    
 
     @media only screen and (min-width: 720px) {
         .contact-form {

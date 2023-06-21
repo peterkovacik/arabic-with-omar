@@ -14,7 +14,7 @@
                         <div class="navbar-nav px-2">
                             <NuxtLink class="nav-link p-2 me-2" to="/">Home</NuxtLink>
                             <NuxtLink class="nav-link p-2 me-2" to="/about">About</NuxtLink> 
-                            <NuxtLink class="nav-link p-2 me-2" to="/classes">Classes</NuxtLink> 
+                            <!--<NuxtLink class="nav-link p-2 me-2" to="/classes">Classes</NuxtLink> -->
                             <NuxtLink class="nav-link p-2 me-2" to="/contact">Contact</NuxtLink> 
                             <div class="d-sm-block d-md-none">
                                 <!--<button class="btn btn-outline-success px-2" type="submit">Student Portal</button>-->

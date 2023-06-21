@@ -10,8 +10,8 @@ export default defineNuxtConfig({
         head: {
             title: 'Arabic Instructor',
             script: [
-            { src: '/js/bootstrap.min.js' }
-          ]
+                { src: '/js/bootstrap.min.js' }
+            ]
         }
     }
 })

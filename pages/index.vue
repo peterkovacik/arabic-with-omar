@@ -1,6 +1,6 @@
 <template>
     <div class="green-mountain-banner d-flex justify-content-center align-items-center">
-        <h1 class="display-1 title text-center text-white py-4 ">Arabic with Omar</h1>
+        <h1 class="display-1 title text-center text-white py-4 ">Classical Arabic with Omar</h1>
     </div>
 
     <div class="content-width px-4 py-5">

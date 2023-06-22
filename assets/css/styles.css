@@ -5,6 +5,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('Anaktoria'), url('@/assets/fonts/Anaktoria.woff') format('woff');
+    font-display: swap;
 }
 
 @font-face {
@@ -12,6 +13,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('Avenir'), url('@/assets/fonts/Avenir-Regular.ttf') format('ttf');
+    font-display: swap;
 }
 
 @font-face {
@@ -19,6 +21,7 @@
     font-style: normal;
     font-weight: normal;
     src: local('GlacialIndifference'), url('@/assets/fonts/GlacialIndifference-Regular.otf') format('otf');
+    font-display: swap;
 }
 
 html, body, div, span, applet, object, iframe,

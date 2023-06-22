@@ -4,7 +4,7 @@
             <nav class="navbar navbar-expand-md navbar-light py-4 px-2">
                 <div class="container-fluid">
                     <NuxtLink class="navbar-brand p-2 me-4" to="/">
-                        <nuxt-img src="/images/classical-arabic-logo.png" alt="Classical Arabic logo" width="171px" height="100px" class="" /> 
+                        <img src="/images/classical-arabic-logo.png" alt="Classical Arabic logo" width="171px" height="100px" class=""> 
                         <!--Arabic Instructor-->
                     </NuxtLink>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

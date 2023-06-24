@@ -65,7 +65,7 @@
     }
 
     .leaves {
-        background-image: url('/images/leaves-three-sisters.jpeg');
+        background-image: url('/images/leaves-three-sisters.avif');
         height: 300px;
         width: 350px;
         background-repeat: no-repeat;

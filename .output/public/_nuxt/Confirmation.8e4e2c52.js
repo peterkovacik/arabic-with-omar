@@ -1,1 +1,0 @@
-import{a as t,b as o,o as s,p as a,e as c,f as _}from"./entry.0d5a04d3.js";const n={},d=e=>(a("data-v-bfd4f8ca"),e=e(),c(),e),i={class:""},p=d(()=>_("h1",{class:"confirmation-text text-center title display-1"},"Thank you for subscribing!",-1)),r=[p];function f(e,l,u,h,m,b){return s(),o("div",i,r)}const v=t(n,[["render",f],["__scopeId","data-v-bfd4f8ca"]]);export{v as default};

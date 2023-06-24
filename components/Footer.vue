@@ -17,7 +17,7 @@
 
 <style>
     footer {
-        background-image: url('/images/islamic-gray-background.png');
+        background-image: url('/images/islamic-gray-background.avif');
         background-repeat: no-repeat;
         background-size: cover;
         border-top: #eee 1px solid;   

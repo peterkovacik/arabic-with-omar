@@ -38,7 +38,7 @@
 <style  scoped>
    
     header {
-        background-image: url('/images/islamic-white-banner.png');
+        background-image: url('/images/islamic-white-banner.avif');
         background-repeat: no-repeat;
         background-size: cover;
         border-bottom: #eee 1px solid;   

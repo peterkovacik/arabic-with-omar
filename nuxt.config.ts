@@ -12,6 +12,7 @@ export default defineNuxtConfig({
     app: {
         head: {
             title: 'Arabic Instructor',
+            charset: 'utf-8',
             script: [
                 { src: '/js/bootstrap.min.js' }
             ],

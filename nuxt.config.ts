@@ -14,7 +14,15 @@ export default defineNuxtConfig({
             title: 'Arabic Instructor',
             script: [
                 { src: '/js/bootstrap.min.js' }
-            ]
+            ],
+            meta: [
+                { name: 'keywords', content: 'Classical Arabic, grammar, Quran, nahw, sarf' },
+                { name: 'description', content: 'Learn Classical Arabic with Peter Omar Kovacik' },
+                { name: 'viewport', content: 'width=device-width, initial-scale=1.0' },
+            ],
+            
+                
+            
         }
     }
 })
